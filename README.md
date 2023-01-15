@@ -31,4 +31,4 @@ make
 | DOC_ROOT  | Root path where all files to be served are stored         |
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](LICENSE)
